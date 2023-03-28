@@ -20,7 +20,7 @@ You can put the USB port to the other side if you want to.
 7. Any USB Type C cable.
   
 ## Disassembly  
-1. Peel off the pad at the bottom and unscrew two bolts. We'll need these two bolts later.  
+1. Peel off the pad at the bottom and unscrew the screws. We'll need these two screws later.  
 2. Use something like a guitar pick to pry up the back. Don't worry if you damage the bottom part as you won't need it.  
 3. Take the board out.
   
