@@ -13,13 +13,13 @@ You can put the USB port to the other side if you want to.
 ![](photos/complete-reverse.jpg)  
 
 ## Parts  
-1. UGREEN HDMI 2.0 Switch CM217 ([Aliexpress](https://www.aliexpress.com/item/32968528447.html)).  The one I got was manufactured in 2019.  
-2. Wemos LOLIN D1 Mini ([Aliexpress](https://www.aliexpress.com/item/32529101036.html)).  Tested with version 4.0.  
-3. Two small electric wires. I use the 24 AWG one.
-4. Soldering station.
+1. UGREEN HDMI 2.0 Switch CM217 (~12 USD, [Aliexpress](https://www.aliexpress.com/item/32968528447.html)).  The one I got was manufactured in 2019.  
+2. Wemos LOLIN D1 Mini (~4 USD, [Aliexpress](https://www.aliexpress.com/item/32529101036.html)).  Tested with version 4.0.  
+3. Two small electrical wires. I use the 24 AWG one.
+4. Soldering station.  
 5. Glue gun.  
 6. 3D Printer.  
-7. Any USB Type C cable.
+7. Anything with an USB Type C male port (cable, adapter).
   
 ## Disassembly  
 1. Peel off the pad at the bottom and unscrew the screws. We'll need these two screws later.  
