@@ -1,5 +1,5 @@
 # ESPHome UGREEN HDMI Switcher
-Control UGREEN HDMI Switcher/Splitter over WiFi using ESPHome. You can still control it with the physical button on top of the device.  
+Control UGREEN HDMI Switcher/Splitter over WiFi using ESPHome. You can still control it with the physical button on top of the device (it also changes the state in Home Assistant device).  
 Demo video: https://youtu.be/F_oZo9kNero  
 
 ⚠️ **DISCLAIMER:** Nobody but you is responsible for any damage this mod may cause.  
@@ -63,7 +63,9 @@ My settings in Cura:
 Flash the board with ESPHome using the code in [`esphome-code.yaml`](esphome-code.yaml).
 
 ## Home Assistant Device
-If everything works you should see something like this in Home Assistant. Use `Toggle HDMI Port` button to switching between the ports.  
+If everything works you should see something like this in Home Assistant.  
+- Use `Toggle HDMI Port` button to switching between the ports.  
+- Use `HDMI Port` sensor to know the current activated port. It can be either `hdmi1` or `hdmi2`.  
 
 ![](photos/ha-device.png)  
 
