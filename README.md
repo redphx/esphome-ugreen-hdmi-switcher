@@ -1,5 +1,5 @@
 # ESPHome UGREEN HDMI Switcher
-Control UGREEN HDMI Switcher/Splitter over WiFi using ESPHome
+Control UGREEN HDMI Switcher/Splitter over WiFi using ESPHome. You can still control it with the physical button on top of the device.  
 
 ![](photos/ugreen-cm217.png)
 
